@@ -17,24 +17,13 @@ permalink: /portfolio
 > Positioning is everything
 
 ## Magical
-> Pillars of flame and magic circles
-
-## Damage
-> 
-
-## Supportive
-> 
-
-## Tank
-> 
+> Beams of energy`
 
 # Visual Effects
 > Lightning fast expression
 
 # Player Progression Design
-
+> The roadmap
 
 # Video Editing
-
-
-> text lol
+> Flashy
