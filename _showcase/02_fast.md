@@ -1,6 +1,7 @@
 ---
 title: 'Type: Fast and Nimble'
 desc: Combo intensive with extra fast hits
+embed: 2peo8f
 ---
 
 The Windwalker is fast paced combo class that leverages their immense mobility and flexibility to weave in attacks at even the

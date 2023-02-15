@@ -1,6 +1,7 @@
 ---
 title: 'Type: Heavy hitter'
 desc: Slow and heavy swings
+embed: 9rh39i
 ---
 
 Barbarian-type classes are a common trope that can be executed in different manners.

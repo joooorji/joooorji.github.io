@@ -7,6 +7,14 @@
           <p>{{ tile.desc }}</p>
         </h3>
         <div>
+          {% if tile.embed %}
+          <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;">
+            <iframe src="https://streamable.com/e/{{ tile.embed }}" 
+              frameborder="0" width="100%" height="100%" allowfullscreen 
+              style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;">
+            </iframe>
+          </div>
+          {% endif %}
           <p>{{ tile.content }}</p>
         </div>
       </header>
