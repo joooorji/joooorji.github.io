@@ -51,6 +51,6 @@ a viable alternative up to the highest level.
 
 # Video Editing
 > Flashy
-Although more of a hobby, I thoroughly enjoy making trailer videos and just editing in general. I try often try to make use of 
-music and sound effects to emphasize and highlight the most important parts of the video. This often means syncing up each clip
-and adding effects to match with the music.
+Although more of a hobby, I thoroughly enjoy making trailer videos to hype-up releases for the changes I made or
+have helped make. I try often try to make use of music and sound effects to emphasize and highlight the most important parts of the video.
+This often means syncing up each clip and adding effects to match with the music. 
