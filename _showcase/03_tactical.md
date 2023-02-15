@@ -1,6 +1,7 @@
 ---
 title: 'Type: Tactical Sniper'
 desc: Positioning is everything
+embed: 9sycwi
 ---
 
 The Sniper is a marksman. Their heavy shots send them backward with recoil. Players must are strongly incentivized to use their

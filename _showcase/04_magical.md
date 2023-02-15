@@ -1,6 +1,7 @@
 ---
 title: 'Type: Spellsword'
 desc: Beams of sword energy
+embed: r6kluk
 ---
 
 The Lunar Knight is a magical swordsman. They channel energy from celestial bodies into their sword to release as waves.

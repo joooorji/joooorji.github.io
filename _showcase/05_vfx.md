@@ -1,6 +1,7 @@
 ---
 title: 'Visual Effect Design'
 desc: Lightning fast expression
+embed: lptqz7
 ---
 
 Each class has their own unique identity and visuals. The skill effects give each class a texture that enhances gameplay.
