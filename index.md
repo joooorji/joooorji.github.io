@@ -14,10 +14,11 @@ deeper into computer technology. I studied Computer Information Systems at the U
 
 
 I first started my journey in game design with a little known game known as Dragon Nest. I first played Dragon Nest in 2011.
-I was enchanted by the game, playing it almost every day for several years. As it grew into the later years of its lifespan,
+I was enchanted by the game, playing it almost every day for several years. As the game grew into the later years of its lifespan,
 I as well as many other players realized how the quality of the game has decayed. From then, I had vivid imaginations of how
-I would fix the game if I was a developer.
+I would fix the game if I were given the opportunity to.
 
 During my sophomore year of college, I joined a small team of developers for a third-party server for the game. There, I was
-finally able to realize my dream of being a game designer and developer. Using and mastering internal tools, I was able to
-design and create systems and gameplay loops for players to experience.
+finally able to realize my dream of becoming a game designer and developer. Using and mastering internal tools, I was able to
+design and create systems and gameplay loops for players to experience and enjoy. I also coordinate community events and host
+livestreams unveiling new releases and discussing our roadmap.

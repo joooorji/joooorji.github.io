@@ -6,6 +6,6 @@ embed: 9rh39i
 
 Barbarian-type classes are a common trope that can be executed in different manners.
 
-Attacks are weighty and mostly single hits as opposed to multi-hit.
-They were also given a skill to damage themselves and negate any healing effects on themselves in exchange for an attack buff.
-The Barbarian can also abort that effect by using a skill that makes them lose damage.
+Their attacks are weighty and mostly slow and single-hits.
+Barbarians were given a skill to put them in a frenzy, damaging themselves and negating any healing effects in exchange for an attack buff.
+This creates a risk-reward gameplay loop that players are incentivized to play with.
