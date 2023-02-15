@@ -29,7 +29,7 @@ falls off if the player spends too much time not attacking anything.
 > Positioning is everything
 The Sniper is a marksman. Their heavy shots send them backward with recoil. Players must are strongly incentivized to use their
 tumble and blink shots to reposition and land their strongest skill that only hits in a set distance away from them.
-When they use enough of their big skills, they'll be able to access their strongest skill that fires a powerful wind arrow.
+When they use some of their key skills enough times, they'll be able to access their strongest skill that fires powerful wind arrows.
 
 ## Magical
 > Beams of energy
@@ -44,7 +44,13 @@ Sword slashes create sparks, flashes of light emerge from beams of energy, dust 
 
 # Player Progression Design
 > The roadmap
-
+When possible, players are given multiple options for completing their objective. For those who are more interesting in challenging themselves,
+there should be routes that are more difficult, but reward the player with items and loot that are worth the time and effort they invested.
+Giving alternatives to party play are important. Although the highest level of play should involve party play, solo play should be
+a viable alternative up to the highest level.
 
 # Video Editing
 > Flashy
+Although more of a hobby, I thoroughly enjoy making trailer videos and just editing in general. I try often try to make use of 
+music and sound effects to emphasize and highlight the most important parts of the video. This often means syncing up each clip
+and adding effects to match with the music.
