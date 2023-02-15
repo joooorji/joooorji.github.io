@@ -29,12 +29,13 @@
 			background-repeat: no-repeat;
 			background-size: cover;
 			cursor: default;
-			height: 40vh;
+			// height: 40vh;
 			max-height: 40em;
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
 			width: 40%;
+			align-items: flex-start;
 
 			.image {
 				display: none;
@@ -102,44 +103,32 @@
 				opacity: 0;
 			}
 
-			&:nth-child(4n - 1),
-			&:nth-child(4n - 2) {
+			&:nth-child(4n - 3),
+			&:nth-child(4n - 4) {
 				flex: 1 auto;
 			}
 
-			&:nth-child(6n - 5) {
+			&:nth-child(4n - 3) {
 				&:before {
 					background-color: _palette(accent1);
 				}
 			}
 
-			&:nth-child(6n - 4) {
+			&:nth-child(4n - 2) {
 				&:before {
 					background-color: _palette(accent2);
 				}
 			}
 
-			&:nth-child(6n - 3) {
+			&:nth-child(4n - 1) {
 				&:before {
 					background-color: _palette(accent3);
 				}
 			}
 
-			&:nth-child(6n - 2) {
+			&:nth-child(4n) {
 				&:before {
 					background-color: _palette(accent4);
-				}
-			}
-
-			&:nth-child(6n - 1) {
-				&:before {
-					background-color: _palette(accent5);
-				}
-			}
-
-			&:nth-child(6n) {
-				&:before {
-					background-color: _palette(accent6);
 				}
 			}
 		}

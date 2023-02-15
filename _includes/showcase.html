@@ -2,8 +2,13 @@
     {% for tile in site.showcase %}
     <article>
       <header class="major">
-        <h3>{{ tile.title }}</h3>
-        <p>{{ tile.content }}</p>
+        <h3>
+          {{ tile.title }}
+          <p>{{ tile.desc }}</p>
+        </h3>
+        <div>
+          <p>{{ tile.content }}</p>
+        </div>
       </header>
     </article>
     {% endfor %}
