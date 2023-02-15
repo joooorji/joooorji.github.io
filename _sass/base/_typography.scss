@@ -32,13 +32,13 @@
 			'color #{_duration(transition)} ease-in-out',
 			'border-bottom-color #{_duration(transition)} ease-in-out'
 		));
-		border-bottom: dotted 1px;
-		color: inherit;
+		border-bottom: _palette(accent-b) solid 1px;
+		color: _palette(accent-b);
 		text-decoration: none;
 
 		&:hover {
-			border-bottom-color: transparent;
-			color: _palette(highlight) !important;
+			border-bottom-color: _palette(accent-a);
+			color: _palette(accent-a) !important;
 		}
 
 		&:active {
