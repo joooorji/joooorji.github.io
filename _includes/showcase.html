@@ -1,0 +1,10 @@
+<section id="one" class="tiles">
+    {% for tile in site.showcase %}
+    <article>
+      <header class="major">
+        <h3>{{ tile.title }}</h3>
+        <p>{{ tile.content }}</p>
+      </header>
+    </article>
+    {% endfor %}
+</section>
