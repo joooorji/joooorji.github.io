@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'George Giang'
-description: 'Apsiring Game Designer'
+description: 'Aspiring Game Designer'
 image: null
 author: null
 show_tile: true
