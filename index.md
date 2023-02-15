@@ -9,7 +9,7 @@ show_tile: true
 ---
 
 I fell in love with technology at a young age. After my friend introduced me to PC games, I decided that I was going
-to build my own computer. In middle school, I was finally able to achieve that goal. Since then, I have only dove
+to build my own computer. In middle school, I was finally able to achieve that goal. Since then, I have only delved
 deeper into computer technology. I studied Computer Information Systems at the University of Houston, graduating in December 2022.
 
 
