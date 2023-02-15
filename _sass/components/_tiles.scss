@@ -34,7 +34,7 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 40%;
+			width: 50%;
 			align-items: flex-start;
 
 			.image {
@@ -44,6 +44,11 @@
 			header {
 				position: relative;
 				z-index: 3;
+			}
+			
+			.video-embed {
+				display: grid;
+				place-items: center;
 			}
 
 			h3 {
