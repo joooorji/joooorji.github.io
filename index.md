@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'George Giang'
-description: 'Aspiring Game Designer'
+description: 'Aspiring Game Designer/Developer'
 image: null
 author: null
 show_tile: true
@@ -20,5 +20,8 @@ I would fix the game if I were given the opportunity to.
 
 During my sophomore year of college, I joined a small team of developers for a third-party server for the game. There, I was
 finally able to realize my dream of becoming a game designer and developer. Using and mastering internal tools, I was able to
-design and create systems and gameplay loops for players to experience and enjoy. I also coordinate community events and host
-livestreams unveiling new releases and discussing our roadmap.
+design and create gameplay loops and systems for players to experience and enjoy. Creating a product that people love and play
+is one of the greatest joys of my life. Working with a team is incredibly enjoyable and rewarding and interacting with the
+game's community is loads of fun. I was also given the opportunity to coordinate community events and host livestreams unveiling
+new releases and discussing our roadmap. Designing and implementing changes and watching the community's reaction is priceless
+and I would love nothing more than to do this for the rest of my life.
