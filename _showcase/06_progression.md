@@ -3,8 +3,4 @@ title: 'Player Progression Design'
 desc: The roadmap
 ---
 
-When possible, players are given multiple options for completing their objective. For those who are more interesting in challenging themselves,
-there should be routes that are more difficult. The challenges reward the player with items and loot that are worth the time and effort they invested.
-
-Giving alternatives to party play are important. Although the highest level of play should involve party play, players should be able to solo
-as a viable alternative up to a point.
+I went through a lot of phases in designing player progression. It was difficult to balance giving players new content that is challenging and also rewarding while not neglecting certain parts of the community. Not every part of the game's community is interested in hardcore raids or competitive experiences. However, I had to keep in mind our game's goal and target audience as I designed the progression system. We put a focus on raids as they were the pinnacle of cooperative play. Accordingly, the rewards for the raids should be competitive and satisfactory. Players should never feel like their time is wasted. I introduced a progression design that included a long tree of equipment that stems from the previous set. While this kept progression simple, it made things too linear and basic. Side-grades and horizontal progression needs to exist where possible to give players access to other options and pathways to grow stronger. 

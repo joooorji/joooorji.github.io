@@ -4,7 +4,17 @@ desc: Positioning is everything
 embed: 9sycwi
 ---
 
-The Sniper is a marksman. Their heavy shots send them backward with recoil. Players are strongly incentivized to use their
-tumble and blink shots to reposition and land one of their strongest skills that fires off a set distance away from them.
+The Sniper is a markswoman. I warped the common archer archetype by creating a gameplay
+loop that involves constant repositioning to make combat more interactive instead of
+idly sitting in the back of the arena firing off arrows without a care.
 
-When they use some of their key skills enough times, they'll be able to access their strongest skill that fires powerful wind arrows.
+Attacks push the player character forward or backward. At the same time, one of their most
+powerful attacks fires a rain of arrows that only strikes at a set distance away from the player.
+
+This creates a minigame that players have to balance, incentivizing them to master the
+movement and positioning of each skill while keeping an eye on the enemy's own movement
+in order to land powerful volleys of arrows.
+
+Their skills create wind energy which after enough casts, unlocks their strongest skill that puts
+them in a siege stance. While in the stance the Sniper can fire off powerful piercing arrows that
+finishing with a powerufl final arrow that explodes into a tornado of wind energy.
