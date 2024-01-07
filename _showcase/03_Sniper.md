@@ -1,5 +1,5 @@
 ---
-title: 'Type: Tactical Sniper'
+title: 'Type: Sniper'
 desc: Positioning is everything
 embed: 9sycwi
 ---

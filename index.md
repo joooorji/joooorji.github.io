@@ -10,8 +10,7 @@ show_tile: true
 
 I fell in love with technology at a young age. After my friend introduced me to PC games, I decided that I was going
 to build my own computer. In middle school, I was finally able to achieve that goal. Since then, I have only delved
-deeper into computer technology. I studied Computer Information Systems at the University of Houston, graduating in December 2022.
-
+deeper into computer technology. I studied Computer Information Systems at the University of Houston, graduating in December 2023.
 
 I first started my journey in game design with a little known game known as Dragon Nest. I first played Dragon Nest in 2011.
 I was enchanted by the game, playing it almost every day for several years. As the game grew into the later years of its lifespan,

@@ -1,5 +1,5 @@
 ---
-title: 'Type: Heavy hitter'
+title: 'Type: Barbarian'
 desc: Slow and heavy swings
 embed: 9rh39i
 ---
