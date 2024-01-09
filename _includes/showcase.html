@@ -1,26 +1,27 @@
-<section id="two-tiles" class="tiles">
-    {% for tile in site.showcase %}
-    <article>
-      <header class="major">
-        <h3>
-          {{ tile.title }}
-          <p>{{ tile.desc }}</p>
-        </h3>
-        <div>
-          {% if tile.embed %}
-          <div class="video-embed">
-            <iframe src="https://streamable.com/e/{{ tile.embed }}" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-          </div>
-          <!-- <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;">
-            <iframe src="https://streamable.com/e/{{ tile.embed }}" 
-              frameborder="0" width="100%" height="100%" allowfullscreen 
-              style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;">
-            </iframe>
-          </div> -->
-          {% endif %}
-          <p>{{ tile.content }}</p>
-        </div>
-      </header>
-    </article>
-    {% endfor %}
-</section>
+
+{% for tile in site.showcase %}
+<article class="tile">
+  <div>
+    <header class="major">
+      <h3>
+        {{ tile.title }}
+        <p>{{ tile.desc }}</p>
+      </h3>
+    </header>
+    <div>
+      {% if tile.embed %}
+      <div class="video-embed">
+        <iframe src="https://streamable.com/e/{{ tile.embed }}" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <!-- <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;">
+        <iframe src="https://streamable.com/e/{{ tile.embed }}" 
+          frameborder="0" width="100%" height="100%" allowfullscreen 
+          style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;">
+        </iframe>
+      </div> -->
+      {% endif %}
+      <p>{{ tile.content }}</p>
+    </div>
+  </div>
+</article>
+{% endfor %}
