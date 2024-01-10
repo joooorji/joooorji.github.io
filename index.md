@@ -7,7 +7,7 @@ image: null
 author: null
 show_tile: true
 ---
-<center><img src="assets/images/me.jpg" width="200"/></center>
+<img src="assets/images/me.jpg" width="300"/>
 
 My name is George Giang and I'm an aspiring game designer and developer. I was exposed to games at a young age by my cousins and I haven't looked back since. As I got older, I gained a deeper appreciation for the art of video games and technology as a whole. I loved learning about the deeper workings of each game. I recently graduated from the University of Houston with a bachelor's degree in Computer Information Systems.
 
